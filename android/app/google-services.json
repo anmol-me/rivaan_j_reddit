@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "337501868219",
+    "project_id": "rivaan-reddit",
+    "storage_bucket": "rivaan-reddit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337501868219:android:729093095d012827d6599e",
+        "android_client_info": {
+          "package_name": "com.example.rivaan_j_reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337501868219-99e4595n53u4uafrmtcrpgudqoqb33kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rivaan_j_reddit",
+            "certificate_hash": "e33bd27c349c4e7c55b060c856b8cc2e40ede297"
+          }
+        },
+        {
+          "client_id": "337501868219-qjufh07dbc29dkr9i6p2v0tlkdut0498.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIimBBL42ILM5XoOZiGN_hvVFaM-7ShHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337501868219-qjufh07dbc29dkr9i6p2v0tlkdut0498.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337501868219-5k035amgb3bhe8th8a2t40so4lsf264n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rivaanJReddit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
